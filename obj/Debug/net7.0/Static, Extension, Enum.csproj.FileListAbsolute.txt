@@ -1,0 +1,15 @@
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.csproj.AssemblyReference.cache
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.AssemblyInfoInputs.cache
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.AssemblyInfo.cs
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/bin/Debug/net7.0/Static, Extension, Enum
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/bin/Debug/net7.0/Static, Extension, Enum.deps.json
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/bin/Debug/net7.0/Static, Extension, Enum.runtimeconfig.json
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/bin/Debug/net7.0/Static, Extension, Enum.dll
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/bin/Debug/net7.0/Static, Extension, Enum.pdb
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.dll
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/refint/Static, Extension, Enum.dll
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.pdb
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/Static, Extension, Enum.genruntimeconfig.cache
+/Users/samil/Projects/Static, Extension, Enum/Static, Extension, Enum/obj/Debug/net7.0/ref/Static, Extension, Enum.dll
